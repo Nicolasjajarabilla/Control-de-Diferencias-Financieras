@@ -1,4 +1,4 @@
-# Proyecto de Control de Diferencias Financieras (Versión 2.0)
+# Proyecto de Control de Diferencias Financieras
 
 ## Descripción General
 
